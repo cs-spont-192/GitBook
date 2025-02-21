@@ -6,6 +6,7 @@ human-readable, 1033 bytes, no ejecutable
 
 ### Herramientas usadas
 
+- `ssh`
 - `cat`
 - `ls`
 - `cd`
