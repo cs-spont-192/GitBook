@@ -6,9 +6,8 @@ el user owner es bandit7, el user group es bandit6, 33 bytes
 
 ### Herramientas usadas
 
+- `ssh`
 - `cat`
-- `ls`
-- `cd`
 - `file`
 
 ### Pasos 
