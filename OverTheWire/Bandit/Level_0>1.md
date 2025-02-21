@@ -1,6 +1,6 @@
 ## Objetivo
 
-Para encontrar la contraseña al siguiente nivel hay que encontrar un archivo llamado _readme_ en el directorio _home_.
+Para encontrar la contraseña al siguiente nivel hay que encontrar un archivo llamado **readme** en el directorio _home_.
 
 ### Herramientas usadas
 
