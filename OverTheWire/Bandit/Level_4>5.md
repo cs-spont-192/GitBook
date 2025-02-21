@@ -4,6 +4,7 @@ Para encontrar la contraseña al siguiente nivel hay que encontrar un archivo qu
 
 ### Herramientas usadas
 
+- `ssh`
 - `cat`
 - `ls`
 - `cd`
