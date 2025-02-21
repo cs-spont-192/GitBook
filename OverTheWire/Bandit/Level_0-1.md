@@ -4,8 +4,8 @@ Para encontrar la contraseña al siguiente nivel hay que encontrar un archivo ll
 
 ### Herramientas usadas
 
-- ls
-- cat
+- `ls`
+- `cat`
 
 ### Pasos 
 
