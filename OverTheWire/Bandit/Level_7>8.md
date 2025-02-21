@@ -4,6 +4,7 @@ Para encontrar la contraseña al siguiente nivel hay que buscar en _data.txt_ al
 
 ### Herramientas usadas
 
+- `ssh`
 - `cat`
 - `ls`
 - `grep`
