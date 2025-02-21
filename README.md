@@ -8,6 +8,6 @@ Este repositorio contiene WriteUps de Máquinas Virtuales que he ido completando
 
 ## Tabla de Contenidos
 
-### OverTheWire WirteUps
+### OverTheWire WriteUps
 
 - [Bandit Level 0-1](OverTheWire/Bandit/Level_0-1.md)
