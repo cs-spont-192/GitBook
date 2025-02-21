@@ -10,4 +10,4 @@ Este repositorio contiene WriteUps de Máquinas Virtuales que he ido completando
 
 ### OverTheWire WirteUps
 
-- [Bandit Level 0-1](OverTheWire/Bandit/Level_0-1)
+- [Bandit Level 0-1](OverTheWire/Bandit/Level_0-1.md)
