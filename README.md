@@ -23,3 +23,4 @@ Este repositorio contiene WriteUps de Máquinas Virtuales que he ido completando
 - [Bandit Level 10>11](OverTheWire/Bandit/Level_10>11.md)
 - [Bandit Level 11>12](OverTheWire/Bandit/Level_11>12.md)
 - [Bandit Level 12>13](OverTheWire/Bandit/Level_12>13.md)
+- [Bandit Level 13>14](OverTheWire/Bandit/Level_13>14.md)
