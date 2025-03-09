@@ -18,7 +18,9 @@ Para encontrar la contraseña al siguiente nivel hay que buscar en _/etc/bandit_
 5. Nos conectamos como bandit14 usando la clave SSH que acabamos de encontrar `ssh -i sshkey.private bandit14@localhost -p 2220`.
 6. Navegamos hasta _/etc/bandit_pass/bandit14_ y hacemos `cat bandit14` para ver la contraseña.
 
+### Password
 
+MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 
 ### Resources
 
