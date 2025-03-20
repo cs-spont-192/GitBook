@@ -1,2 +1,6 @@
-# apuntes-web
+---
+icon: globe
+---
+
+# Apuntes Web
 

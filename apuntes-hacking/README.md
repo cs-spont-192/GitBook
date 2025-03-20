@@ -1,2 +1,6 @@
-# apuntes-hacking
+---
+icon: keyboard
+---
+
+# Apuntes Hacking
 

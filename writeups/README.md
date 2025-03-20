@@ -1,2 +1,6 @@
-# writeups
+---
+icon: laptop-code
+---
+
+# Write-ups
 
