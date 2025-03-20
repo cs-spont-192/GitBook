@@ -20,3 +20,11 @@
     * [Level 11>12](writeups/overthewire/bandit/level_11-greater-than-12.md)
     * [Level 12>13](writeups/overthewire/bandit/level_12-greater-than-13.md)
     * [Level 13>14](writeups/overthewire/bandit/level_13-greater-than-14.md)
+
+## Apuntes Hacking
+
+* [Page 1](apuntes-hacking/page-1.md)
+
+## Apuntes Web
+
+* [Page 2](apuntes-web/page-2.md)
