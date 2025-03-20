@@ -1,19 +1,21 @@
+# Level 5>6
+
 ## Objetivo
 
 Para encontrar la contraseña al siguiente nivel hay que encontrar un archivo que sea tenga las siguientes características en el directorio _inhere_:
 
 human-readable, 1033 bytes, no ejecutable
 
-### Herramientas usadas
+## Herramientas usadas
 
-- `ssh`
-- `cat`
-- `ls`
-- `cd`
-- `find`
-- `du`
+* `ssh`
+* `cat`
+* `ls`
+* `cd`
+* `find`
+* `du`
 
-### Pasos 
+## Pasos
 
 1. Nos conectamos a la máquina usando el siguiente comando: `ssh bandit5@bandit.labs.overthewire.org -p 2220`
 2. Usamos el comando `cd inhere` para ir al directorio.

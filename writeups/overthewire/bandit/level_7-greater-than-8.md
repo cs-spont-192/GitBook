@@ -1,15 +1,17 @@
+# Level 7>8
+
 ## Objetivo
 
 Para encontrar la contraseña al siguiente nivel hay que buscar en _data.txt_ al lado de la palabra **millionth**.
 
-### Herramientas usadas
+## Herramientas usadas
 
-- `ssh`
-- `cat`
-- `ls`
-- `grep`
+* `ssh`
+* `cat`
+* `ls`
+* `grep`
 
-### Pasos 
+## Pasos
 
 1. Nos conectamos a la máquina usando el siguiente comando: `ssh bandit7@bandit.labs.overthewire.org -p 2220`
 2. Usamos `ls` para ver los archivos en el directorio.
