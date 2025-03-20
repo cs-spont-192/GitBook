@@ -23,6 +23,8 @@
       * [Level 12>13](writeups/overthewire/bandit/level_12-13.md)
       * [Level 13>14](writeups/overthewire/bandit/level_13-14.md)
       * [Level 14>15](writeups/overthewire/bandit/level_14-15.md)
+      * [Level 15>16](writeups/overthewire/bandit/level_15-16.md)
+      * [Level 16>17](writeups/overthewire/bandit/level_16-17.md)
 
 ## Python Code
 

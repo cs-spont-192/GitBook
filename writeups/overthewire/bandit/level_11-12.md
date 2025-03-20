@@ -17,4 +17,4 @@ Para encontrar la contraseña al siguiente nivel hay que buscar en **data.txt**,
 
 ## Resources
 
-[ROT13 - Wikipedia](https://en.wikipedia.org/wiki/ROT13).
+[ROT13 - Wikipedia](https://en.wikipedia.org/wiki/ROT13)

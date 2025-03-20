@@ -26,4 +26,4 @@ MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 
 ## Resources
 
-[SSH/OpenSSH/Keys Ubuntu Help](https://help.ubuntu.com/community/SSH/OpenSSH/Keys).
+[SSH/OpenSSH/Keys Ubuntu Help](https://help.ubuntu.com/community/SSH/OpenSSH/Keys)

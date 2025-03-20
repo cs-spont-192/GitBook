@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Para sacar la contraseña al siguiente nivel hay que subir la contraseña del nivel anterior a localhost por el puerto 30001 usando encriptación SSLTLS.
+Para sacar la contraseña al siguiente nivel hay que subir la contraseña del nivel a localhost por el puerto 30000 usando encriptación SSLTLS.
 
 ## Herramientas usadas
 
@@ -18,3 +18,18 @@ Para sacar la contraseña al siguiente nivel hay que subir la contraseña del ni
 ## Password
 
 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+
+## Resources
+
+[How the Internet works in 5 minutes (YouTube)](https://www.youtube.com/watch?v=7_LPdttKXPc)&#x20;
+
+[IP Addresses](https://computer.howstuffworks.com/web-server5.htm)
+
+[IP Address on Wikipedia](https://en.wikipedia.org/wiki/IP_address)
+
+[Localhost on Wikipedia](https://en.wikipedia.org/wiki/Localhost)
+
+[Ports](https://computer.howstuffworks.com/web-server8.htm)
+
+[Port (computer networking) on Wikipedia](https://en.wikipedia.org/wiki/Port_\(computer_networking\))
+

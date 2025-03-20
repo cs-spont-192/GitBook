@@ -50,4 +50,4 @@ Para encontrar la contraseña al siguiente nivel hay que buscar en **data.txt**,
 
 ## Resources
 
-[ROT13 - Wikipedia](https://en.wikipedia.org/wiki/Hex_dump).
+[ROT13 - Wikipedia](https://en.wikipedia.org/wiki/Hex_dump)
