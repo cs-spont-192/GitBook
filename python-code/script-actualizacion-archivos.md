@@ -14,9 +14,9 @@ Necesitamos automatizar el proceso, y conseguir que automáticamente tengamos un
 ```python
 # Assigning variables to each .txt list
 
-allow_list = "/home/mypc/Documents/allow_list.txt"
-deny_list = "/home/mypc/Documents/deny_list.txt"
-updated_list = "/home/mypc/Documents/updated_files.txt"
+allow_list = "/home/Seguridad/Documents/allow_list.txt"
+deny_list = "/home/Seguridad/Documents/deny_list.txt"
+updated_list = "/home/Seguridad/Documents/updated_files.txt"
 
 # Reading the allowed IPs file
 
