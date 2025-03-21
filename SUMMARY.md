@@ -29,3 +29,8 @@
 ## Python Code
 
 * [Script actualización archivos](python-code/script-actualizacion-archivos.md)
+
+## Proyectos Want To Do
+
+* [Hardening Metasploit](proyectos-want-to-do/hardening-metasploit.md)
+* [Creación de Red PYMES](proyectos-want-to-do/creacion-de-red-pymes.md)
