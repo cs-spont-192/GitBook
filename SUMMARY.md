@@ -1,6 +1,14 @@
 # Table of contents
 
 * [👋  ¡Hola!](README.md)
+
+## Apuntes eJPT
+
+* [00. Consiguiendo Información](apuntes-ejpt/00.-consiguiendo-informacion.md)
+* [Tips & Tricks](apuntes-ejpt/tips-and-tricks.md)
+
+***
+
 * [Apuntes Hacking](apuntes-hacking/README.md)
   * [Page 1](apuntes-hacking/page-1.md)
 * [Apuntes Web](apuntes-web/README.md)
